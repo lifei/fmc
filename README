@@ -1,0 +1,16 @@
+Fast Mirah Compiler
+
+usage:
+
+The Server:
+
+nohup java -jar fmc.jar &
+
+The Client:
+
+telnet 127.0.0.1 12580
+fractal.mirah
+
+
+Author: lifei
+Blog: http://blog.7v1.net
